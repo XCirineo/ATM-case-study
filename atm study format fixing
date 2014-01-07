@@ -141,4 +141,17 @@ B. The process of Interaction Design
        
        B. Design Principles
        
+	Metrobank Design Principles 
+	1. Visibility 
+	•The buttons are paired with the designated transactions or selections on the screen.  It is aligned just beside the button so that the user will know what button to press.
+	2. Feedback 
+	•The machine responds to various actions starting from the entering of the pin code. The selection of buttons. It plays a beeping sound. The lights also on the ATM card slot and receipt slot shows if the card or receipt is about to go out. It also has a screen dedicated for the transaction process.
+	3. Constraints 
+	•Some constraints of the machine starts from the entering the pin code to the desired limitations of numbers allowed to enter. It also constraints the user not to enter denominations that are not divisible by 100 thereby eliminating the option of entering centavos or have extra amounts. (e.g. 1001)
+	4. Consistency 
+	•The machine itself is consistent with the other ATMs as their designs are almost the same but with different colors and variations. It also uses the conventional keypad and the same operations for the transactions.
+	5. Affordance
+	•The attribute of the machine is of its monitor and screen. The ATM card slot at the side also indicates that a card must be inserted to the machine in order to use it. The slot box at the bottom also allows the users to have an idea that money is to come out of that machine.
+
+       
        C. Reflection
