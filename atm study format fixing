@@ -19,10 +19,85 @@ B. The process of Interaction Design
 1. Identifying needs and establishing requirements for the user experience (Establishing Requirements)
        
        A. Kinds of Requirements
+       RCBC
+       Environment or context of use
+       -need answer
+       
+       Users: Who are they?
+       -The ATM machine possess a simple design making it very easy to operate, it does not require users to have  a 
+       high level mastery in computers to perform a particular task, every buttons are displayed with labels that are 
+       precise with the functions it offers, every instructions are provided to every page, such as what to enter, what
+       category to select and what are the  transactions that are done, it only requires the user to read and follow
+       every step carefully to accomplish a task, every user has the capacity to learn even those who has no experience
+       with computers, it only requires a correct understanding of the flow of instructions.
+       
+       METROBANK
+       Environment or context of use
+       -need answer
+       
+       Users: Who are they?
+       The machine is very learnable because it has directions to fit every user. It has voice instructions for users
+       with strong auditory senses and uses arrows for people with visual strengths. Users must have knowledge on basic
+       mathematical operations such as addition and subtraction for them to know how much money they will withdraw, or 
+       in some cases, deposit. The machine is very straightforward and direct on the transactions that should be made. 
+       Any user that has the capability to read well the instructions will not find a hard time operating the machine.
+       
 
+       STERLING BANK OF ASIA
+       Environment or context of use
+       -need answer
+       
+       Users: Who are they?
+       -As mentioned in the positive personal experiences list, a beginner computer user with almost zero knowledge 
+       about intermidiate computer functions can access the ATM’s, as long as they know how to read instructions, press
+       the buttons, and they should be knowledgeable about the basic banking transactions offered by their banks through
+       ATM’s. Of course they should be bringing the debit cards with them when accessing the machine as it’s the most 
+       important item. 
+       
+    
        B. Current Process/Steps
+       RCBC
+       -need answer
+       
+       METROBANK
+       -need answer
+       
+       STERLING BANK OF ASIA
+        Balance Inquiry:
+
+       1.  Push the button beside “balance inquiry” (pointed by red arrow). It should bring you to PICTURE 2.
+       2. Choose the kind of balance you want to check. It should lead you to PICTURE 3.
+
+       Deposit:
+
+       1. Pick “Transfers” (shown by the blue arrow).
+       2. Select Transferee Bank.
+       3. Enter the account number of the account you wish to transfer funds to. Afterwards, it would lead you to the same window as shown in PICTURE 2.
+       4. Select type of bank account to be used.
+       5. The window in PICTURE 4 should appear. Type and confirm the desired amount.
+
+       Withdraw:
+
+       1. Pick “Withdraw Cash” (shown by the violet arrow). 
+       2.Choose where to withdraw from the list shown in PICTURE 2.
+       3. Type and confirm the desired amount in the input box shown in PICTURE 4.
+
 
        C. User Experience
+       STERLING BANK OF ASIA
+       Positive
+       -Machines function fast  enough not to hinder the users.
+       -The lightings are fine, although the opinion might differ when tried out during the night.
+       -The instructions are easy to follow
+       - Basic functionalities could be easily done and accessed by beginner computer users.
+       
+       Negative
+       -The areas of the ATM’s are all too public for safety usage. The ATM’s are also poorly guarded.
+       -The numeric keypads are obviously not well-maintained. (Full of rusts and some other slight defects)
+       -Color combinations aren’t good for the eyes (ie. Sterling bank’s color scheme orange-blue hurts the eyes  ) 
+       -This one’s more of a matter of opinion, but there are times when the contents of the ATM window occupies a lot less space when compared with the unused portions of the window. Those spaces could have been used more efficiently probably through making the texts look bigger and more centralized.
+
+       
 
        D. Usability Goals
 
